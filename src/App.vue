@@ -1,18 +1,9 @@
 
 <template>
-  <div id ="app"></div>
-  <HelloWorld/>
+  <listdemo/>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default{
-  name:'App',
-  components:{
-    HelloWorld
-  }
-
-}
+<script setup>
+import listdemo from './components/ListDemo.vue'
 
 </script>
