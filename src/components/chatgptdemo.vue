@@ -44,10 +44,7 @@ import { marked } from 'marked';
    export default {
        data() {
            return {
-               content: '',
-               messages: [],
-            //    model: '',
-            //    accessToken: ''
+        
            }
        },
        methods: {
