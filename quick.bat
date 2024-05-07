@@ -4,7 +4,8 @@ REM 添加所有改动到暂存区
 git add .
 
 REM 提交改动
-git commit -m "添加前端输入参数和清除组件"
+git commit -m "优化聊天界面和图片断层问题"
 
 REM 推送改动到远程仓库
 git push origin master
+
