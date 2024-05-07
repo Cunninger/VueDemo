@@ -42,9 +42,7 @@
 import { marked } from 'marked';
 
    export default {
-       data() {
-   
-       },
+ 
        methods: {
            async sendRequest() {
                try {
