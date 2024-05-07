@@ -43,9 +43,7 @@ import { marked } from 'marked';
 
    export default {
        data() {
-           return {
-        
-           }
+   
        },
        methods: {
            async sendRequest() {
