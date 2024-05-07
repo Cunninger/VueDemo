@@ -46,8 +46,8 @@ import { marked } from 'marked';
            return {
                content: '',
                messages: [],
-               model: 'xxxx',//自己设置
-               accessToken: ''
+            //    model: '',
+            //    accessToken: ''
            }
        },
        methods: {
